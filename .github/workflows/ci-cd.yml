@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         node-version: ['20.x']
-        php-version: ['8.1']
+        php-version: ['8.2']
 
     steps:
       # Checkout the code
